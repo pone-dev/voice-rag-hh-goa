@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+pydantic
+python-dotenv
+datasets
+numpy
+pandas
+tqdm
+scikit-learn
+rank-bm25
+sentence-transformers
