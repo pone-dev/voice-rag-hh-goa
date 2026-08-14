@@ -20,3 +20,7 @@ data/index/
 
 .DS_Store
 .vscode/
+
+# Local dataset and generated indexes
+data/raw/
+data/processed/
